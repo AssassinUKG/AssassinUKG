@@ -10,18 +10,17 @@
 ### Technologies:
 <div style="display: inline_block"><br>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-  <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bash/bash-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/c/c-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
   <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dot-net/dot-net-original.svg"></code>
   <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-original.svg"></code>
   <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/ruby/ruby-original.svg"></code>
   <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg"></code>
   <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/go/go-original-wordmark.svg"></code>
   <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg"></code>
+  <code><img height="25" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bash/bash-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/c/c-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code> 
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 </div>
 <!--
