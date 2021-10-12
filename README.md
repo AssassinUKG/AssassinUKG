@@ -5,15 +5,17 @@
 
 
 
-[![Acids GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinukg&layout=compact&theme=radical)](https://github.com/assassinukg/github-readme-stats&layout=compact&theme=dark)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assassinukg&line_height=33&layout=compact&theme=dark" />
+</a>
 
-<a href="https://shells.systems">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assassinukg&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
 ## I'm Currently
 
-Currently working on becoming better at web, binary exploits. With a view to learn as much as possible! 
+Currently working on becoming better at web, binary exploits, helping others and trying to hack the world! With a view to learn as much as possible! 
 
 ### Technologies:
 <div style="display: inline_block"><br>
