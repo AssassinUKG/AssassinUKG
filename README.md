@@ -7,6 +7,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinukg&layout=compact&theme=radical)](https://github.com/assassinukg/github-readme-stats&layout=compact&theme=radical)
 
+## I'm Currently
+
+Currently working on becoming better at web, binary exploits. With a view to learn as much as possible! 
+
 ### Technologies:
 <div style="display: inline_block"><br>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
