@@ -5,7 +5,11 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinukg&layout=compact&theme=radical)](https://github.com/assassinukg/github-readme-stats&layout=compact&theme=radical)
+[![Acids GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinukg&layout=compact&theme=radical)](https://github.com/assassinukg/github-readme-stats&layout=compact&theme=dark)
+
+<a href="https://shells.systems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assassinukg&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
 
 ## I'm Currently
 
