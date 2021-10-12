@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-richard-jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-jones-2a8934a2/)](https://www.linkedin.com/in/richard-jones-2a8934a2/)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinukg)](https://github.com/anuraghazra/github-readme-stats)
 
 
