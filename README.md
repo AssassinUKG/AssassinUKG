@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome 👋!
 
 [![Linkedin Badge](https://img.shields.io/badge/-richardjones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-jones-2a8934a2/)](https://www.linkedin.com/in/richard-jones-2a8934a2/)
 ![Profile Views](https://komarev.com/ghpvc/?username=assassinukg&color=green)
