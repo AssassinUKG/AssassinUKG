@@ -13,6 +13,7 @@
 
 ### ExploitDB
 [Total: 10 Listed Exploits](https://www.exploit-db.com/search?e_author=richard+jones)
+
 ---
 
 ## I'm Currently
