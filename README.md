@@ -2,17 +2,18 @@
 
 ![image](https://user-images.githubusercontent.com/5285547/150214639-d9154985-8abe-4d5e-907d-d368ef062c0d.png)
 
+## Exploits
 
-## CVE's
+### CVE's
 [CVE-2021-27129](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-27129)  
 [CVE-2021-27130](CVE-2021-27130)
 
-## PacketStorm
+### PacketStorm
 [Total: 46 Listed Exploits](https://packetstormsecurity.com/files/author/15431/)
 
-## ExploitDB
+### ExploitDB
 [Total: 10 Listed Exploits](https://www.exploit-db.com/search?e_author=richard+jones)
-
+---
 
 ## I'm Currently
 
