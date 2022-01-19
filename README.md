@@ -13,6 +13,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assassinukg&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
+## CVE's
+[CVE-2021-27129](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-27129)
+[CVE-2021-27130](CVE-2021-27130)
+
+## PacketStorm
+[Total: 46 Listed Exploits](https://packetstormsecurity.com/files/author/15431/)
+
+## ExploitDB
+[Total: 10 Listed Exploits](https://www.exploit-db.com/search?e_author=richard+jones)
+
+
 ## I'm Currently
 
 Currently working on becoming better at web, binary exploits, helping others and trying to hack the world! With a view to learn as much as possible! 
