@@ -14,7 +14,7 @@
 </a>
 
 ## CVE's
-[CVE-2021-27129](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-27129)
+[CVE-2021-27129](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-27129)  
 [CVE-2021-27130](CVE-2021-27130)
 
 ## PacketStorm
