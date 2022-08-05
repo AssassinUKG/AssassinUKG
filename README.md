@@ -6,7 +6,7 @@
 
 ### CVE's
 [CVE-2021-27129](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-27129)  
-[CVE-2021-27130](CVE-2021-27130)
+[CVE-2021-27130](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-27130)
 
 ### PacketStorm
 [Total: 46 Listed Exploits](https://packetstormsecurity.com/files/author/15431/)
