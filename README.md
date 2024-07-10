@@ -51,6 +51,9 @@ Currently working on becoming better at web, binary exploits, helping others and
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Work+smarter%2C+not+harder)](https://git.io/typing-svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AssassinUKG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 Here are some ideas to get you started:
 
